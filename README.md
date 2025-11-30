@@ -1,6 +1,6 @@
-# ☕ Praktikum 7 — Pemrograman Dasar Java
+# ☕ Praktikum 9 — Pemrograman Dasar Java
 
-Repositori ini berisi penyelesaian **Praktikum 7** mata kuliah Pemrograman Dasar dengan fokus pada *Function*, *Object Oriented Programming (OOP)*, *Service Class*, serta penerapan logika perhitungan dan transaksi sederhana menggunakan Java.
+Repositori ini berisi penyelesaian **Praktikum 9** mata kuliah Pemrograman Dasar dengan fokus pada *Function*, *Object Oriented Programming (OOP)*, *Service Class*, serta penerapan logika perhitungan dan transaksi sederhana menggunakan Java.
  
 
 ## 📘 Daftar Isi 
